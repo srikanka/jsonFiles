@@ -1,7 +1,7 @@
 [
   {
     "name": "Tom",
-    "age" : "25",
+    "age" : 25,
     "excercises": {
       "likes": ["Squat"],
       "dislikes": ["Deadlift"]
@@ -9,7 +9,7 @@
   },
   {
     "name": "Lorraine",
-    "age" : "30",
+    "age" : 30,
     "excercises": {
       "likes": ["Lunge", "Overhead Press"],
       "dislikes": ["Squat"]
@@ -17,7 +17,7 @@
   },
   {
     "name": "Anand",
-    "age" : "50",
+    "age" : 50,
     "excercises": {
       "likes": ["biking"],
       "dislikes": ["Weight training"]
