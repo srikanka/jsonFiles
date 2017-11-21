@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jason",
+    "Age" : "15",
+    "Excercises": {
+      "likes": ["Squat"],
+      "dislikes": ["Deadlift"]
+    }
+  },
+  {
+    "name": "Michelle",
+    "Age" : "18",
+    "Excercises": {
+      "likes": ["Lunge", "Overhead Press"],
+      "dislikes": ["Squat"]
+    }
+  },
+  {
+    "name": "Courtney",
+    "Age" : "33",
+    "Excercises": {
+      "likes": ["biking"],
+      "dislikes": ["Weight training"]
+    }
+  }
+]
