@@ -1,24 +1,24 @@
 [
   {
     "name": "Patel",
-    "Age" : "22",
-    "Excercises": {
+    "age" : "22",
+    "excercises": {
       "likes": ["Overhead Press"],
       "dislikes": ["Deadlift"]
     }
   },
   {
     "name": "Joe",
-    "Age" : "65",
-    "Excercises": {
+    "age" : "65",
+    "excercises": {
       "likes": ["Lunge", "Overhead Press"],
       "dislikes": ["Squat"]
     }
   },
   {
     "name": "Rocky",
-    "Age" : "50",
-    "Excercises": {
+    "age" : "50",
+    "excercises": {
       "likes": ["biking"],
       "dislikes": ["Weight training"]
     }
