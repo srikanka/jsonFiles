@@ -1,26 +1,26 @@
 [
   {
-    "name": "Kitty",
-    "species" : "cat",
-    "foods": {
-      "likes": ["fresh food"],
-      "dislikes": ["stale food"]
+    "name": "Tom",
+    "Age" : "25",
+    "Excercises": {
+      "likes": ["Squat"],
+      "dislikes": ["Deadlift"]
     }
   },
   {
-    "name": "Pupster",
-    "species" : "dog",
-    "foods": {
-      "likes": ["tomatoes", "peas"],
-      "dislikes": ["bread"]
+    "name": "Lorraine",
+    "Age" : "30",
+    "Excercises": {
+      "likes": ["Lunge", "Overhead Press"],
+      "dislikes": ["Squat"]
     }
   },
   {
-    "name": "Tux",
-    "species" : "cat",
-    "foods": {
-      "likes": ["fancy dishes"],
-      "dislikes": ["basic cat food"]
+    "name": "Anand",
+    "Age" : "50",
+    "Excercises": {
+      "likes": ["biking"],
+      "dislikes": ["Weight training"]
     }
   }
 ]
